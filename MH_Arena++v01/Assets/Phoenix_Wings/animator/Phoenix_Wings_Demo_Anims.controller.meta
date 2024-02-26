@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 126d2395a1ad3a2488be256efe348441
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249933
+  packageName: Low Poly Phoenix Wings
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix_Wings/animator/Phoenix_Wings_Demo_Anims.controller
+  uploadId: 570968

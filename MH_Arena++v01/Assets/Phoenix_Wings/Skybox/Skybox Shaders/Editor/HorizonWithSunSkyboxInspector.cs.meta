@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e197dfda576864589a8bff65326c6ac9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249933
+  packageName: Low Poly Phoenix Wings
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix_Wings/Skybox/Skybox Shaders/Editor/HorizonWithSunSkyboxInspector.cs
+  uploadId: 570968

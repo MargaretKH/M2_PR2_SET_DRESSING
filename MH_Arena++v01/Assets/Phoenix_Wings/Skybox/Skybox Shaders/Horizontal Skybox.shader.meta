@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c4d18cbad9e484771bc509c0d9d033c7
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249933
+  packageName: Low Poly Phoenix Wings
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix_Wings/Skybox/Skybox Shaders/Horizontal Skybox.shader
+  uploadId: 570968

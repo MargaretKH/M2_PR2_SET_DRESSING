@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4496fbd6b28d3426e9c827c3e5332cf1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249933
+  packageName: Low Poly Phoenix Wings
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix_Wings/Skybox/Skybox Shaders/Editor/RgbmCubedSkyboxInspector.cs
+  uploadId: 570968

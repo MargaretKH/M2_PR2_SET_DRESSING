@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1b1032babd6d64921a50506aa07cf3b2
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249933
+  packageName: Low Poly Phoenix Wings
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix_Wings/Skybox/Skybox Shaders/Gradient Skybox.shader
+  uploadId: 570968
